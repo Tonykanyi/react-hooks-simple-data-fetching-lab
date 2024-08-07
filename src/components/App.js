@@ -1,4 +1,3 @@
-// create your App component here
 const { useEffect, useState } = require("react")
 
 // create your App component here
